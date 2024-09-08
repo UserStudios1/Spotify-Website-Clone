@@ -1,5 +1,5 @@
 # Spotify Clone Website
-This project is a clone of the spotify website.
+This project is a clone of the Spotify Website FRONTEND ONLY.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
